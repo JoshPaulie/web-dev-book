@@ -6,6 +6,7 @@
 - [🤓 Computer Science Basics](./compsci-basics/index.md)
   - [✍️ IDEs](./compsci-basics/IDEs.md)
     - [🏆 VSCode > Sublime](./compsci-basics/vscode-shilling.md)
+    - [💨 Getting started with VSCode](./compsci-basics/getting-started-vscode.md)
   - [🗄️ The File System](./compsci-basics/the-file-system.md)
     - [📄 Text Files](./compsci-basics/text-files.md)
     - [🗂️ Directories (Folders)](./compsci-basics/directories.md)
