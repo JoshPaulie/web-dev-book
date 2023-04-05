@@ -4,8 +4,8 @@
 [🛑 Before reading...](preface.md)
 
 - [✍️ Your text editor](./text-editor/whats-an-ide.md)
-  - [🏆 VSCode > Sublime](./text-editor/vscode-vs-sublime.md)
-  - [💨 Getting started with VSCode](./text-editor/getting-started-vscode.md)
+  - [🥊 VS Code vs. Sublime](./text-editor/VSCode-vs-sublime.md)
+  - [💨 Getting started with VS Code](./text-editor/getting-started-VSCode.md)
 
 - [🗄️ The File System](./file-system/the-file-system.md)
   - [📄 Text Files](./file-system/files.md)
