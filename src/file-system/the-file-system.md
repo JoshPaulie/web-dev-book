@@ -1,4 +1,4 @@
-# The File System
+# The File System 🗄️
 - The **file system** can be thought of as a big filing cabinet
 - Each **file** can be thought of as a piece of paper
 - Each piece of paper has information written on it, called **data**
