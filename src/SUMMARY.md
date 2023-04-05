@@ -17,7 +17,7 @@
     - [Attributes](./about-html/tag-attributes.md)
     - [IDs](./about-html/tag-IDs.md)
     - [Classes](./about-html/tag-classes.md)
-  - [index.html](./about-html/about-index-html.md)
+  - [index.html](./about-html/index-html.md)
 
 - [CSS](./about-css/index.md)
   - [Rules](./about-css/rules.md)
