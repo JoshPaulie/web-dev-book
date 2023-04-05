@@ -1,4 +1,4 @@
-# File & directory paths
+# File & directory paths 🗺️
 Files exist somewhere on your hard drive. The location they are is called the **file path**. There are two types of file paths, *relative* and *absolute*.
 
 ## Absolute paths
@@ -8,4 +8,8 @@ Being given absolute path is similar to being given a full address to someone's 
 Being given a relative path is like being given directions to someone's house FROM where you are now.
 
 ## Analogy 
-So if the store is down the street from where you are, you might say "head out the front door, turn right, and it will be on your left." These directions are entirely *relative* to where you are when you give the directions. If you were accross town and tried to head out the front door, turn right and look for a shop on my left, it won't be there, because I am starting from a new point of reference.
+Imagine you are giving directions to a friend to get to a specific store in a shopping mall. There are two ways you could give them the directions: relative or absolute.
+
+A **relative path** would be like saying "*Go straight ahead, take the first right, and then take the second left. The store is on your right-hand side.*" In this case, you are giving directions based on the current location of your friend. They need to know where they are starting from in order to follow your directions.
+
+An **absolute path**, on the other hand, would be like saying "*Go to the entrance of the mall, take the escalator to the second floor, turn left, and the store is on your right-hand side.*" In this case, you are giving directions based on a fixed starting point, regardless of where your friend is currently located. They don't need to know their current location, just the starting point you specified.
