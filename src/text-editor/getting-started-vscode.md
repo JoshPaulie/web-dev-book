@@ -7,4 +7,4 @@
 > If you're on MacOS, remember to add the App to your `applications/` folder
 
 ## Creating a homework project with Code
-![making homework project](../images/making-homework-project.mp4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qx1oiGDah2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
