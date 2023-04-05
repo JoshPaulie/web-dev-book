@@ -1,5 +1,5 @@
 <p align="center">
-    [Read the book here](https://bexli.co/web-dev-book/) 📖
+    <a href="https://bexli.co/web-dev-book/">Read the book here</a> 📖
 </p>
 
 ---
