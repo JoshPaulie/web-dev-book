@@ -6,4 +6,5 @@
 
 > If you're on MacOS, remember to add the App to your `applications/` folder
 
-## Creating a homework project
+## Creating a homework project with Code
+![making homework project](../images/making-homework-project.mp4)
