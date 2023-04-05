@@ -1,5 +1,9 @@
 # VS Code vs. Sublime
 
+My web dev class was advised to try out Sublime text for our IDE. I think this is a big mistake for a couple reasons, outlined in the table below. Chiefly, Sublime Text is very bare bones out of the box, and new capabilities can only be added by installed separate software to extend it with.
+
+This is contrast to VS Code, an IDE developed by Microsoft. It has excellent default settings out of the box, making it ideal for new programmers. On top of this, you can extend it with extentions, downloaded and preconfigured from within Code itself.
+
 |                         |          VS Code           |            Sublime Text            |
 | :---------------------: | :------------------------: | :--------------------------------: |
 |   Easy autocompletion   |            Yes!            |    Behind combersome shortcut 🤢    |
