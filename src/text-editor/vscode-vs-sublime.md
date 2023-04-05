@@ -1,4 +1,4 @@
-# VSCode > Sublime
+# VSCode vs. Sublime
 
 My issues with **Sublime Text**
 - very barebones "out of the box"

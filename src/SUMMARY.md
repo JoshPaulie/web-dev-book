@@ -3,16 +3,14 @@
 [🏠 Home](home.md)
 [🛑 Before reading...](preface.md)
 
-- [🤓 Computer Science Basics](./compsci-basics/index.md)
-  - [✍️ IDEs](./compsci-basics/IDEs.md)
-    - [🏆 VSCode > Sublime](./compsci-basics/vscode-shilling.md)
-    - [💨 Getting started with VSCode](./compsci-basics/getting-started-vscode.md)
-  - [🗄️ The File System](./compsci-basics/the-file-system.md)
-    - [📄 Text Files](./compsci-basics/text-files.md)
-    - [🗂️ Directories (Folders)](./compsci-basics/directories.md)
-    - [🗺️ Paths](./compsci-basics/paths.md)
-  - [⌨️ The terminal]()
-<!-- - [The terminal](./compsci-basics/terminal.md) -->
+- [✍️ Your text editor](./text-editor/whats-an-ide.md)
+  - [🏆 VSCode > Sublime](./text-editor/vscode-vs-sublime.md)
+  - [💨 Getting started with VSCode](./text-editor/getting-started-vscode.md)
+
+- [🗄️ The File System](./file-system/the-file-system.md)
+  - [📄 Text Files](./file-system/files.md)
+  - [🗂️ Directories (Folders)](./file-system/directories.md)
+  - [🗺️ Paths](./file-system/paths.md)
 
 - [🏗️ HTML](./about-html/index.md)
   - [🏷️ Tags](./about-html/tags.md)
@@ -30,5 +28,7 @@
     - [🔗 Linking external stylesheets](./about-css/linking-external-stylesheets.md)
 
 - [Appendix](./appendix/index.md)
+  - [⌨️ The terminal]()
+<!-- - [The terminal](./compsci-basics/terminal.md) -->
 
 [📫 Contact](./appendix/contact.md)
