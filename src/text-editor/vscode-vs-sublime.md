@@ -1,23 +1,22 @@
 # VS Code vs. Sublime
 
-My issues with **Sublime Text**
-- very barebones "out of the box"
-- autocompletion is hidden behind a cumbersome shortcut
-- no default formatting
-- unintuitive UI
-- no built-in extention hub
+|                         |          VS Code           |            Sublime Text            |
+| :---------------------: | :------------------------: | :--------------------------------: |
+|   Easy autocompletion   |            Yes!            |    Behind combersome shortcut 🤢    |
+| Easy install extentions | Build-in extention manager | Manually installed extentions only |
+|   Novice-friendly UI    |             ✅              |                 ❌                  |
+|   Built in formatting   |             ✅              |                 ❌                  |
 
-All of these features are front and center in **VSCode**
 
 ## Extentions
-The real power behind VSCode is the extention hub. Here you can find many helpful extentions, some we'll cover here. (*These are what I could recommend everyone in class install*)
+The real power behind VS Code is the extention hub. Here you can find many helpful extentions, some we'll cover here. (*These are what I could recommend everyone in class install*)
 
 |                                           Name                                           |               Purpose / Functionality                |
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------: |
 | [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) | Automagically ✨ refresh your website with every save |
-|  [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)  |       HTML, CSS, and JavaScript auto formatter       |
+|  [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-VSCode)  |       HTML, CSS, and JavaScript auto formatter       |
 
 ### Example of 'Live Server' extention
-|                                                                                                                                          |
-| :--------------------------------------------------------------------------------------------------------------------------------------: |
-| ![live server example](https://github.com/ritwickdey/vscode-live-server/raw/HEAD/images/Screenshot/vscode-live-server-animated-demo.gif) |
+|                                                                                                                                                 |
+| :---------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![live server example](https://github.com/ritwickdey/vscode-live-server/raw/HEAD/images/Screenshot/vscode-live-server-explorer-menu-demo-1.gif) |
