@@ -1,1 +1,2 @@
 # HTML
+We've got two files types we use to construct website pages: `html` and `css`. The **html** part provides the building blocks of our page, while the css part tells the blocks where to be be, what color they are, their size, and much more.
