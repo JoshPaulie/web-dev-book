@@ -12,6 +12,8 @@
   - [Directories (Folders)](./file-system/directories.md)
   - [Paths](./file-system/paths.md)
 
+- [The browser](./the-browser/index.md)
+
 - [HTML](./about-html/index.md)
   - [Tags](./about-html/tags.md)
     - [Attributes](./about-html/tag-attributes.md)
