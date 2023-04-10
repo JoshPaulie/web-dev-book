@@ -11,6 +11,8 @@ This eBook is...
 - generated with [mdBook](https://github.com/rust-lang/mdBook)
 - written in markdown
 - mobile friendly
+- publicly written on [GitHub](https://github.com/JoshPaulie/web-dev-book)
+- built and hosted by GitHub pages
 
 ## Goals for the eBook
 - short, quick, and beginner friendly pages
