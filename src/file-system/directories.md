@@ -27,6 +27,7 @@ Note how `pages/` "branches off" from the [root directory](#the-root-directory),
 Now note how `about.html` and `blog.html` "branch off" of the `pages/` directory. This would mean that the html pages are children to the parent `pages/` directory, which is itself a child to the root directory.
 
 ## The root directory
-- The **root directory**, or "*root of your project*" of the example above would be `~/web-dev/assignments/hw0`
+The **root directory**, or "*root of your project*" is the directory that houses your project's files and subdirectories
+- The root directory of the example above would be `~/web-dev/assignments/hw0`
 - This last item in the path, `hw0`, is the "root" of the project
 - This is because if I went one directory above, I would be in `~/web-dev/assignments/` and that contains all of my hw assignments
