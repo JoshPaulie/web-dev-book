@@ -1,7 +1,7 @@
 # Tags
 In HTML, **tags** are used to markup and structure the content of a web page. A tag is a keyword enclosed in angle brackets, such as `<tagname>`. The tag specifies the beginning and end of an HTML element, which may contain content, attributes, and other nested elements.
 
-> TODO: Define the concept of nesting
+> 🚧 TODO: Define the concept of nesting
 
 ## Types of tags
 HTML tags are divided into two categories:
@@ -28,3 +28,6 @@ For example, `<img>` is an empty tag used for displaying images on a web page.
 | `<ul>`          | **U**nordered **l**ist<br>Creates lists like<br>• Item 1<br>• Item 2<br>• Item 3 |
 | `<ol>`          | **O**rdered **L**ist<br>Creates lists like<br>1. Item 1<br>2. Item 2<br>3. Item 3 |
 | `<li>`          | **L**ist **I**tem                                            |
+
+## More on tags
+There is so, so much to be said about tags. Because of this, most tags will  covered (in detailed) in a dedicated chapter
