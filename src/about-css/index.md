@@ -6,7 +6,7 @@ Each rule consists of one or more **declarations**, lines that define what a pro
 CSS styling can be applied in 3 ways: inline, internal, and external
 
 ## Inline styling
-Inline styling is styling defined within the element's `style` attribute. It supersedes any other type of styling. This means that a body inline styled to have a red background will always have a red background, regardless of any styling rules created in an internal or external style sheet
+Inline styling is styling defined within the element's `style` attribute. It supersedes any other type of styling. This means that a body inline-styled to have a red background will always have a red background, regardless of any styling rules created in an internal or external style sheet
 
 ```html
 ...
@@ -27,11 +27,13 @@ Internal styling is when the rules are defined of a `<style>` tag within the `<h
 	body {
 		background-color: powderblue;
 	}
+
 	h1 {
-	color: blue;
+		color: blue;
 	}
+
 	p {
-	color: red;
+		color: red;
 	}
 	</style>
 </head>
@@ -44,7 +46,7 @@ External styling is when you define your style rules in a separate file, which y
 
 ```css
 body {
-		background-color: powderblue;
+	background-color: powderblue;
 }
 
 h1 {
