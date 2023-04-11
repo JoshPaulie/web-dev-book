@@ -4,7 +4,7 @@
 [Before reading...](preface.md)
 
 - [Your text editor](./text-editor/whats-an-ide.md)
-  - [VS Code vs. Sublime](./text-editor/vscode-vs-sublime.md)
+  - [VS Code](./text-editor/vscode.md)
   - [Getting started with VS Code](./text-editor/getting-started-vscode.md)
 
 - [The File System](./file-system/the-file-system.md)
