@@ -1,7 +1,7 @@
 # Tags
-In HTML, **tags** are used to markup and structure the content of a web page. A tag is a keyword enclosed in angle brackets, such as `<tagname>`. The tag specifies the beginning and end of an HTML element, which may contain content, attributes, and other nested elements.
+In HTML, **tags** are used to markup and structure the **elements** of your web page.
 
-> 🚧 TODO: Define the concept of nesting
+A tag is a keyword surrounded by angle brackets, such as `<tagname>`. The tag specifies the beginning and end of an HTML element, which may contain content, attributes, and other nested elements.
 
 ## Types of tags
 HTML tags are divided into two categories:
