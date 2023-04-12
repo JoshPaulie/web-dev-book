@@ -1,5 +1,5 @@
 # Selectors
-In CSS, selectors are used to target specific elements in an HTML document and apply styles to them. There are several types of selectors in CSS, each with its own syntax and behavior. Here are the common CSS selectors:
+In CSS, selectors are used to target specific elements in an HTML document and apply styles to them. Here are the common CSS selectors:
 
 1. **Type** selectors: These target all elements of a particular HTML tag. For example, the selector `p` will target all `<p>` elements on a page.
 
