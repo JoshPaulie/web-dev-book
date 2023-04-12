@@ -25,9 +25,7 @@
   - [Rules](./about-css/rules.md)
     - [Selectors](./about-css/rule-selectors.md)
     - [Declarations](./about-css/rule-declarations.md)
-  - [Inline Stylesheets](./about-css/inline-stylesheets.md)
-  - [External Stylesheets](./about-css/external-stylesheets.md)
-    - [Linking external stylesheets](./about-css/linking-external-stylesheets.md)
+  - [Linking external stylesheets](./about-css/linking-external-stylesheets.md)
 
 - [Appendix](./appendix/index.md)
   - [The terminal]()
