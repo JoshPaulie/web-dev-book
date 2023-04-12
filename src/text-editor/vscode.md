@@ -2,7 +2,7 @@
 VS Code (or just *Code*) is an IDE developed by Microsoft. It has excellent default settings out of the box, making it ideal for new programmers. On top of this, you can extend it with extentions, downloaded and preconfigured from within Code itself.
 
 ## Why VS Code over Sublime Text?
-- VS Code is actually free, and won't ask you to buy a license
+- VS Code is actually free, and won't bug you to buy a license
 - Much friendlier design
 - Built in extention manager that downloads, installs, and configures extentions that give Code even more functionality
 - Built in terminal
