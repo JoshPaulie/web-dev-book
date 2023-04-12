@@ -1,18 +1,15 @@
 # Linking your style sheet
+Remember that this is an "external style sheet." This means that your style rules are defined in an external `.css` file, that you must link in your `<head>`
 
-- Remember that this is an "external style sheet"
-- This means that your style rules are defined in an external `.css` file, that you must link in your header
-- You "add" these to your header by using a `<link>` tag
-
-## Using the `href` attribute in the anchor tag
-Recall how we used an anchor tag to "point to" a file in our project directory:
-```html
- <a href='pages/about.html'>About</a>
-    👆
-```
+You "add" these to your `<head>` by using a `<link>` tag
 
 ## The `<link>` tag
-We will be doing basically the same thing but with a `<link>` tag instead. These differ from `<a>...</a>` tags because they don't need to be closed.
+The `<link>` tag is very similar to the `<a>` tag, in the sense that you need to define an `href` attribute that points to your style sheet
+
+Besides the `href` attribute, the `<link>` tag's `rel` attribute must be set too. We'll use `rel="stylesheet"`
+
+> Note that `<link>` tags are "self closing, meaning no closing `</link>` is required
+
 
 ```html
                  Here we point the tag towards the location of our style sheet
